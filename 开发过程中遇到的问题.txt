@@ -1,0 +1,11 @@
+created 被执行了两次？
+
+	路由配置问题，查看路由
+
+字体图标不显示？
+
+	换成iconfont （百度下载）
+
+页面滚动 better-scrll（插件 => 应用实例）
+
+	https://www.jianshu.com/p/f43fe49065a0
